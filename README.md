@@ -9,7 +9,7 @@ A clean and modern graphical calculator built in Python using **Tkinter**.
 * **Basic operations**: Addition (`+`), Subtraction (`-`), Multiplication (`X`), Division (`÷`).
 * **Quick actions**: Percentage calculation (`%`) and clear entry (`AC`).
 * **Decimal support**: Handles floating-point numbers.
-* **Clean UI**: Dark theme featuring high-contrast gray and orange buttons.
+* **Simple Interface**: Dark mode layout with standard gray and orange buttons.
 
 ---
 
