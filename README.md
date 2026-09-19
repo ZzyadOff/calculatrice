@@ -1,6 +1,6 @@
 # Python Calculator
 
-A clean and modern graphical calculator built in Python using **Tkinter**.
+A basic graphical calculator built in Python using **Tkinter**.
 
 ---
 
@@ -26,5 +26,5 @@ No external library installation required.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/ZzyadOff/calculatrice.git](https://github.com/ZzyadOff/calculatrice.git)
+   cd calculatrice
